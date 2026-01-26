@@ -1,7 +1,5 @@
 # Telecom Customer Churn Analysis:-
 
-<img src="" width="180" style="border-radius:50%" />
-
 ## Project Overview:-
 This project aims to identify patterns and predictors of customer churn within a telecom company using Python. 
 By analyzing customer demographics, service usage, and account information, it uncovers insights that can drive
